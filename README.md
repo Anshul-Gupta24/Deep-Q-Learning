@@ -15,4 +15,4 @@
 
 ### To change game:
 ### Replace game name in first line,
-### env = gym.make(<game name>)
+### env = gym.make('\<game name\>')
