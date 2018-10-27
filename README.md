@@ -11,7 +11,7 @@
 #### Actions are chosen via an epsilon greedy policy.
 
 #### To run:
-#### >> python DQN.py
+#### ```>> python DQN.py```
 
 #### To change game:
 #### Replace game name in first line,
