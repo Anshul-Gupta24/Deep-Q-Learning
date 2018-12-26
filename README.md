@@ -6,7 +6,7 @@
 
 #### We first preprocess the video frame to convert it to Greyscale, and then crop it to a resolution of 84 X 84
 #### We store histories of state, action, and reward in a replay buffer, and randomly sample trajectories to perform SGD to train our network.  
-#### Actions are chosen via an epsilon greedy policy.
+#### Actions are chosen via an epsilon greedy policy. </br> </br>
 
 ### Running the Code
 #### ```>> python DQN.py```
