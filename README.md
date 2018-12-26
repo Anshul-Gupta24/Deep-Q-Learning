@@ -1,5 +1,3 @@
-# Deep-Q-Learning
-
 ## Tensorflow implementation of the paper Playing Atari with Deep Reinforcement Learning (Mnih et al, 2013) by Deepmind.
 
 #### The architecture consists of 2 CNN layers and a dense layer.
@@ -10,7 +8,7 @@
 #### We store histories of state, action, and reward in a replay buffer, and randomly sample trajectories to perform SGD to train our network.  
 #### Actions are chosen via an epsilon greedy policy.
 
-#### To run:
+### Running the Code
 #### ```>> python DQN.py```
 
 #### To change game:
